@@ -1,9 +1,38 @@
-<h1 align="center"><b>Hi , I'm Tatiana Suarez </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h3 align="center">Hey there, I'm Tatiana<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="28"/></h3>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <p align="right"> <h3>Profile Views :</h3> <img src="https://komarev.com/ghpvc/?username=tatiana17899&label=Profile%20views&color=0e75b6&style=flat"
     alt="tatiana17899" /> 
   </p>
+
+<h3 align="center">
+	
+👋 ¡Hola! Bienvenidos a mi perfil profesional de GitHub. Soy una apasionada estudiante de Ingeniería de Computación y Sistemas, siempre en busca de nuevas oportunidades para aprender, desarrollar y colaborar en proyectos tecnológicos que marquen la diferencia. 🚀
+
+</h3>
+
+<br> </br>
 👨🏻‍💻 &nbsp;About Me
+
+👩 **Mi nombre:** Tatiana  
+🎂 **Edad:** 20 años  
+🤪 **Apodo:** Tata  
+🌍 **Origen:** Perú 🇵🇪  
+🎓 **Estudios:** Ingeniería de Computación y Sistemas  
+📚 **Universidad:** Universidad San Martín de Porres  
+
+🌟 **Idiomas:**  
+- 🏅 Español (Nativo)  
+- 🌐 Inglés (Intermedio)  
+- 🈵 Chino (Básico)  
+- 🇮🇹 Italiano (Básico)  
+
+💻 **Pasión:** Amo la programación ❤️  
+- **Español:** Amo la programación ❤️  
+- **Inglés:** I love programming 💻  
+- **Chino:** 我爱编程 (Wǒ ài biānchéng) 🖥️  
+- **Italiano:** Amo la programmazione 💾  
+
+🚀 ¡Con ganas de aprender, crear y colaborar en proyectos tecnológicos innovadores!  
 
 
 ### 🛠 &nbsp;Tech Stack
@@ -28,6 +57,8 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)&nbsp;
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)&nbsp;
+<img src="https://img.shields.io/badge/jupyter-F3631D.svg?&style=for-the-badge&logo=jupyter&logoColor=white" height="25"/>
+  </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

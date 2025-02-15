@@ -22,15 +22,14 @@
 
 🌟 **Idiomas:**  
 - 🏅 Español (Nativo)  
-- 🌐 Inglés (Intermedio)  
+- 🌐 Inglés (Básico A2)  
 - 🈵 Chino (Básico)  
-- 🇮🇹 Italiano (Básico)  
+
 
 💻 **Pasión:** Amo la programación ❤️  
 - **Español:** Amo la programación ❤️  
 - **Inglés:** I love programming 💻  
 - **Chino:** 我爱编程 (Wǒ ài biānchéng) 🖥️  
-- **Italiano:** Amo la programmazione 💾  
 
 🚀 ¡Con ganas de aprender, crear y colaborar en proyectos tecnológicos innovadores!  
 

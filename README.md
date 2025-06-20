@@ -3,10 +3,15 @@
 <p align="right"> <h3>Profile Views :</h3> <img src="https://komarev.com/ghpvc/?username=tatiana17899&label=Profile%20views&color=0e75b6&style=flat"
     alt="tatiana17899" /> 
   </p>
+<p align="center">
+  <b>🎨 Vendo plantillas, UI y proyectos hechos en HTML, CSS, ASP.NET y Figma en:</b><br>
+  <a href="https://ko-fi.com/W7W41GRQML" target="_blank">☕ Ko-fi</a> |
+  <a href="https://tatcode.gumroad.com" target="_blank">📦 Gumroad</a>
+</p>
 
 <h3 align="center">
 	
-👋 ¡Hola! Bienvenidos a mi perfil profesional de GitHub. Soy una apasionada estudiante de Ingeniería de Computación y Sistemas, siempre en busca de nuevas oportunidades para aprender, desarrollar y colaborar en proyectos tecnológicos que marquen la diferencia. 🚀
+👋 ¡Hola! Bienvenidos a mi perfil profesional de GitHub. Soy estudiante de Ingeniería de Computación y Sistemas, siempre en busca de nuevas oportunidades para aprender, desarrollar y colaborar en proyectos tecnológicos que marquen la diferencia. 🚀
 
 </h3>
 
@@ -23,13 +28,10 @@
 🌟 **Idiomas:**  
 - 🏅 Español (Nativo)  
 - 🌐 Inglés (Básico A2)  
-- 🈵 Chino (Básico)  
-
 
 💻 **Pasión:** Amo la programación ❤️  
 - **Español:** Amo la programación ❤️  
 - **Inglés:** I love programming 💻  
-- **Chino:** 我爱编程 (Wǒ ài biānchéng) 🖥️  
 
 🚀 ¡Con ganas de aprender, crear y colaborar en proyectos tecnológicos innovadores!  
 
@@ -41,7 +43,6 @@
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)&nbsp;
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
-![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)&nbsp;
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)&nbsp;
 
 ### 🗃 &nbsp;Databases
@@ -56,18 +57,17 @@
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)&nbsp;
   </p>
 
-<h3 align="left">Connect with me:</h3>
+### 🌐 &nbsp;Conecta conmigo
+
 <p align="left">
-  <a href="https://www.linkedin.com/in/tatianasuarez17/" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-      alt="tatiana17899" height="30" width="40" /></a>
-  <a href="https://www.instagram.com/tatiana_suarez_xd/" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
-      alt="tatiana17899" height="30" width="40" /></a>
-
- 
+  <a href="https://www.linkedin.com/in/tatianasuarez17/" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+         alt="tatiana17899" height="30" width="40" />
+  </a>
+  <a href="https://ko-fi.com/W7W41GRQML" target="blank">
+    <img src="https://ko-fi.com/img/githubbutton_sm.svg" alt="Ko-fi" height="30"/>
+  </a>
 </p>
-
 
 ⚙️ &nbsp;GitHub Analytics
 <p align="center">
@@ -77,6 +77,9 @@
 </a>
 </p>
 
+<p align="center">
+  <b>Gracias por visitar mi perfil 💻 ¡Nos vemos en mis proyectos!</b>
+</p>
 <!---
 tatiana17899/tatiana17899 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

@@ -65,6 +65,7 @@
          alt="tatiana17899" height="30" width="40" />
   </a>
 	<br>
+	<br>
   <a href="https://ko-fi.com/W7W41GRQML" target="blank">
     <img src="https://ko-fi.com/img/githubbutton_sm.svg" alt="Ko-fi" height="30"/>
   </a>
@@ -91,5 +92,3 @@ You can click the Preview link to take a look at your changes.
 <br>
 
 Credits: [tatiana17899](https://github.com/tatiana17899)
-
-Last Edited on: 11/01/2025

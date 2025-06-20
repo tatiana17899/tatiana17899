@@ -64,7 +64,7 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
          alt="tatiana17899" height="30" width="40" />
   </a>
-  <a href="https://ko-fi.com/W7W41GRQML" target="blank">
+  <a href="https://ko-fi.com/W7W41GRQML" target="blank" style="margin-left:20px">
     <img src="https://ko-fi.com/img/githubbutton_sm.svg" alt="Ko-fi" height="30"/>
   </a>
 </p>

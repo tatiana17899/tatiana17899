@@ -3,11 +3,6 @@
 <p align="right"> <h3>Profile Views :</h3> <img src="https://komarev.com/ghpvc/?username=tatiana17899&label=Profile%20views&color=0e75b6&style=flat"
     alt="tatiana17899" /> 
   </p>
-<p align="center">
-  <b>🎨 Vendo plantillas, UI y proyectos hechos en HTML, CSS, ASP.NET y Figma en:</b><br>
-  <a href="https://ko-fi.com/W7W41GRQML" target="_blank">☕ Ko-fi</a> |
-  <a href="https://tatcode.gumroad.com" target="_blank">📦 Gumroad</a>
-</p>
 
 <h3 align="center">
 	

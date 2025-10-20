@@ -61,9 +61,6 @@
   </a>
 	<br>
 	<br>
-  <a href="https://ko-fi.com/W7W41GRQML" target="blank">
-    <img src="https://ko-fi.com/img/githubbutton_sm.svg" alt="Ko-fi" height="30"/>
-  </a>
 </p>
 
 ⚙️ &nbsp;GitHub Analytics
